@@ -1,11 +1,11 @@
 [![BCH compliance](https://bettercodehub.com/edge/badge/BetterCodeHubTraining/training-assignments-simple)](https://bettercodehub.com)
 
-Playground for OpenSource Spring Cleaning
+Playground for Open Source Spring Cleaning
 ==========
 Use this repo as a playground for Open Source Spring Cleaning
 
 
-About The Assignment Code
+About The Playground Code
 -----------
 There is a `pom.xml` file in the root of this repository. This allows compiling the Java source files and running the unit tests using [Maven](https://maven.apache.org) by executing `mvn test`.
 
