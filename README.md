@@ -16,6 +16,7 @@ PlayGround Usage
 * Fork this repository to your own account.
 * Clone the project on your development machine (git clone https://github.com/YourAccountNameHere/playground.git)
 * Open the project in your favorite Java IDE.
+* try to improve this Playground codebase to a 10 out 10
 
 Use Better Code Hub to find refactoring candidates
 -----------
