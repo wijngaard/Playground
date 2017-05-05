@@ -1,4 +1,4 @@
-[![BCH compliance](https://bettercodehub.com/edge/badge/BetterCodeHubTraining/training-assignments-simple)](https://bettercodehub.com)
+[![BCH compliance](https://bettercodehub.com/edge/badge/wijngaard/Playground?branch=master)](https://bettercodehub.com/)
 
 Playground for Open Source Spring Cleaning
 ==========
